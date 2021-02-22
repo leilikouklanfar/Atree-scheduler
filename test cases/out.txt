@@ -1,0 +1,7 @@
+CPSC 101 LEC 01             : MO 8:00
+odeCPSC 102 LEC 01             : MO 9:00
+odeCPSC 103 LEC 01             : MO 9:00
+odeCPSC 104 LEC 01             : MO 10:00
+odeCPSC 105 LEC 01             : MO 10:00
+odeCPSC 106 LEC 01             : MO 10:00
+odeEval: 55
